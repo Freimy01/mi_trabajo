@@ -1,6 +1,6 @@
 <INICIO>
 1. Obtener los datos de fuente origen
 2. Obtener ventas del día
-	2.1. Filtrar ventas género cliente = 'Femenino'
+	2.1. Filtrar ventas del Género = 'Femenino'
 3. Mostrar detalles de las ventas del Día
 <FIN>
